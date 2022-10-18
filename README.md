@@ -1,2 +1,2 @@
 
-This is my first HTML Resume.
+This is only for English Version about my Resume.
